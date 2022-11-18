@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://happy-sky-039913800.2.azurestaticapps.net/index.html
-**project demo video link** - 
+**project demo video link** - https://youtu.be/GArUbAYb_vY
 
 ## Azure technologies used for Project
 
